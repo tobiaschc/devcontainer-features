@@ -1,0 +1,10 @@
+{
+    "test_remote_config": {
+        "image": "mcr.microsoft.com/devcontainers/base:debian",
+        "features": {
+            "starship": {
+                "configFile": "tobias"
+            }
+        }
+    }
+}
